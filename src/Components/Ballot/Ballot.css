@@ -1,0 +1,28 @@
+.ballot-button {
+  background-color: #009b86 !important;
+}
+
+.ballot-button:hover {
+  background-color: #34ac9c !important;
+}
+
+.ballot-card:hover {
+  background-color: #34ac9c !important;
+  color: #ffffff !important;
+}
+
+.ballot-card-selected {
+  background-color: #50b074 !important;
+}
+
+.success-modal {
+  background-color: white !important;
+  display: grid;
+  place-items: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 30dvw;
+  height: 20dvh;
+}
